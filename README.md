@@ -1,2 +1,3 @@
-# denigration
+# struct
+
 Structured
